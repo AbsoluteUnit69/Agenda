@@ -1,10 +1,10 @@
-# Agentibus
+# Agenda
 
-School award management software, made simple. With **Agentibus** you are able to assign awards to students for each class. Superusers are then able to see the award distribution among students and then submit for printing. 
+School award management software, made simple. With **Agenda** you are able to assign awards to students for each class. Superusers are then able to see the award distribution among students and then submit for printing. 
 
 ## Files
 
-**Agentibus** stores files on a local server, allowing for an institution to manage their files according to their needs and requirements.
+**Agenda** stores files on a local server, allowing for an institution to manage their files according to their needs and requirements.
 
 ## Usage
 
