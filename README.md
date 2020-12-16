@@ -25,5 +25,5 @@ Back End
 -
 > - Ben Scares  			(Team Leader)
 > - Freddie Boyd		(Python Development)
-> - Jack Rochford		(Python Development)
-> - Joshua Rawlings	(C# Development)
+> - Jack Rochford		(C# Development)
+> - Joshua Rawlings	(Python Development)
